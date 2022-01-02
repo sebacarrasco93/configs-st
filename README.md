@@ -19,3 +19,12 @@ public function nombre()
     return //;
 }
 ```
+
+### t
+
+```php
+/** @test */
+function nombre() {
+    $this->assertTrue(true);
+}
+```
